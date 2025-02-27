@@ -20,4 +20,4 @@ Property Management Project.sql [Property_Management_Project.sql](./Property_Man
  → Complete SQL script (Schema, ETL, BI reports)
 
 
-README.md ([README.md](url)) → Project documentation
+README.md [README.md](./README.md) → Project documentation
