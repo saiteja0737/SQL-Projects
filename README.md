@@ -16,7 +16,7 @@ This project focuses on analyzing property management data using SQL. It include
 
 ## Project Structure
 
-Property Management Project.sql → Complete SQL script (Schema, ETL, BI reports)
+Property Management Project.sql([Property_Management_Project.sql](url)) → Complete SQL script (Schema, ETL, BI reports)
 
 
-README.md → Project documentation
+README.md ([README.md](url)) → Project documentation
