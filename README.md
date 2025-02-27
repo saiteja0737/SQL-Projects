@@ -9,10 +9,10 @@ This project focuses on analyzing property management data using SQL. It include
 -  **BI Reports:** SQL queries to analyze rental trends, staff efficiency, and maintenance performance.
 
 ### Technologies Used
-- **SQL (MySQL/PostgreSQL)**
+- **SQL (MySQL)**
 - **Data Modeling**
 - **ETL (Extract, Transform, Load)**
-- **Business Intelligence (BI) Reporting**
+- **Business Intelligence (BI) Reporting (Tableau)**
 
 ### Project Structure
 
